@@ -1,0 +1,17 @@
+/*
+    ----------------------------------------------
+    ----------  /udemy.antonydev.tech/  ----------
+    ----------  /curso-ia-web-local/  ------------
+    ----------  /06-modelo-prompts/  -------------
+    ----------  /css/view-transition.css  --------
+    ----------------------------------------------
+*/
+
+
+@view-transition {
+    navigation: auto;
+}
+
+::view-transition-group(*) {
+    animation-duration: 1000ms;
+}
